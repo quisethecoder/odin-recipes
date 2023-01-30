@@ -6,6 +6,6 @@ unordered and ordered list were also used
 I had to create a paragraph using the P attribute
 other attributes that were used are title, head, body, html, etc
 I downloaded images from the internet to use for the webpage
-I still need to figure out how to find a image and use the image from a website, but honestly i like downloagin the image better.
+
 
 Technologies Used: HTML
